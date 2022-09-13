@@ -1,2 +1,1 @@
-# fire-detection-ai
-AI - Lab School Hackaton Project 2022
+# Data Analysis for AI - Lab School Hackaton 2022
